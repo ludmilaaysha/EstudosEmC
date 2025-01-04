@@ -16,7 +16,7 @@ Este é um simples jogo de adivinhação onde o objetivo é acertar o número se
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/jogo_adivinhacao.git
+   git clone https://github.com/ludmilaaysha/EstudosEmC/Projetos.git
 2. Navegue até o diretório do projeto:
     ```bash
     cd jogo_adivinhacao
