@@ -16,9 +16,10 @@ Este é um simples jogo de adivinhação onde o objetivo é acertar o número se
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/ludmilaaysha/EstudosEmC/Projetos.git
+   git clone https://github.com/ludmilaaysha/EstudosEmC.git
 2. Navegue até o diretório do projeto:
     ```bash
+    cd Projetos
     cd jogo_adivinhacao
 3. Compile o código:
     ```bash
