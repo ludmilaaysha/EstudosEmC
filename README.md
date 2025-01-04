@@ -14,15 +14,11 @@ Este repositório serve como um espaço de aprendizado e prática. Inclui:
 ```plaintext
 EstudosEmC/
 ├── Anotacoes/
-│   ├── fundamentos_c.md
-│   ├── variaveis_e_tipos.md
-│   └── operadores_logicos.md
+│   ├── condicoes_e_lacos.md
+│   ├── hello_world.md
+│   └── imprimir_e_ler_dados.md
 ├── Projetos/
-│   ├── calculadora/
-│   │   ├── calculadora.c
-│   │   ├── README.md
 │   ├── jogo_adivinhacao/
 │   │   ├── adivinhacao.c
 │   │   ├── README.md
-│   └── ...
 ├── README.md
