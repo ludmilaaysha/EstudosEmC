@@ -1,6 +1,6 @@
-# EstudosEmC
+# Estudos em C
 
-Bem-vindo ao repositório **EstudosEmC**, onde estou documentando meu aprendizado da linguagem de programação C.
+Bem-vindo ao repositório de **Estudos em C**, onde estou documentando meu aprendizado da linguagem de programação C.
 
 ## 📚 Sobre este repositório
 
